@@ -38,3 +38,5 @@ Exit the mysql terminal and from bash or zsh, type 'npm run seed' to seed the da
 Now you can run 'npm start' to start your server
 
 # Gethub Link: https://github.com/mambu1998/Benji-Challenge-13/tree/master/Code
+
+# Video link: https://drive.google.com/file/d/12-GwMoCb1FYJG3LeT0_LiwLv0tjJ1RRI/view?usp=sharing
