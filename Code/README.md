@@ -36,3 +36,5 @@ type in the terminal command line 'npm i' to download the dependencies.
 Initiate the database with 'mysql -u root -p', then 'source db/schema.sql' to create the tables.
 Exit the mysql terminal and from bash or zsh, type 'npm run seed' to seed the data into your tables.
 Now you can run 'npm start' to start your server
+
+# Gethub Link: https://github.com/mambu1998/Benji-Challenge-13/tree/master/Code
